@@ -10,6 +10,6 @@
 
 @interface ViewController : UIViewController
 
-
+-(void)setViewControlerSize:(UIView*)view width:(int)width height:(int)height;
 @end
 
